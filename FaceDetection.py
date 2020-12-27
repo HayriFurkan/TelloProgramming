@@ -1,3 +1,4 @@
+# Written by Hayri Furkan OZTURK
 import numpy as np
 import cv2
 import socket
